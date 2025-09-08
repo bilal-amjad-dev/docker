@@ -7,6 +7,8 @@ In this lab, we create:
 - create file
 - see changes in host machine's `directory`
 
+
+*Make a directory*
 ```bash
 mkdir testingmount
 ```

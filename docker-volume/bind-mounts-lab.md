@@ -49,5 +49,6 @@ exit
 
 ```bash
 /home/devopsmolvi/testingmount/
-ls -l 
+ls -l
+cat abc.txt
 ```

@@ -1,10 +1,20 @@
 ### Lab: Bind Mounts:
 
-mkdir testingmount
+In this lab, we create:
+- directory 'mkdir'
+- `run` container and `bind` directory
+- `exec` container
+- create file
+- see changes in host machine's `directory`
 
+```bash
+mkdir testingmount
+```
 
 *docker volume list*
+```bash
 docker volumes ls 
+```
 
 *create container and mount a directory*
 ```bash

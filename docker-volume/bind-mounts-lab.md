@@ -1,7 +1,7 @@
 ### Lab: Bind Mounts:
 
 In this lab, we create:
-- directory 'mkdir'
+- directory `mkdir`
 - `run` container and `bind` directory
 - `exec` container
 - create file

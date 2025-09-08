@@ -1,6 +1,13 @@
 
 ### Docker volume lab:
 
+In this docker volume lab, we create:
+- `docker volume`,
+- `run` container,
+- `exec` container,
+- do changes,
+- and then see changed in host machine `cd /var/lib/docker/volumes/myfirstvolume/_data`.  
+
 *Create docker volume*
 ```bash
 docker volume create myfirstvolume

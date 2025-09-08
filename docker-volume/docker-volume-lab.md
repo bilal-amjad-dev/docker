@@ -5,7 +5,7 @@ In this docker volume lab, we create:
 - `docker volume`,
 - `run` container,
 - `exec` container,
-- do changes,
+- create file,
 - and then see changes in host machine `cd /var/lib/docker/volumes/myfirstvolume/_data`.  
 
 *Create docker volume*

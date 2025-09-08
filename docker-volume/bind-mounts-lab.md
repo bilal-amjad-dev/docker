@@ -35,12 +35,19 @@ docker exec -it 12344321 sh
 cd /opt
 ```
 
+*create file*
+
 ```bash
 touch abc.txt
 ```
-
+```bash
 exit
+```
 
+
+*see changes in host machine's `directory`*
+
+```bash
 /home/devopsmolvi/testingmount/
 ls -l 
-
+```

@@ -26,6 +26,7 @@ docker run -it -d -p 80:80 -v /home/devopsmolvi/testtingmount:/opt --name contai
 `sourcedirectory:destinationdirectory`
 
 *Exec the container*
+
 ```bash
 docker exec -it 12344321 sh 
 ```

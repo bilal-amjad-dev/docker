@@ -13,10 +13,6 @@ In this lab, we create:
 mkdir testingmount
 ```
 
-*docker volume list*
-```bash
-docker volumes ls 
-```
 
 *create container and mount a directory*
 ```bash

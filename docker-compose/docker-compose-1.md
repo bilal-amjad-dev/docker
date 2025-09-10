@@ -10,6 +10,17 @@ sudo apt install docker.io docker-compose -y
 sudo docker run --name web -itd -p 8080:80 nginx 
 ```
 
+
+
+```bash
+sudo docker ps
+```
+
+
+```bash
+localhost:8081
+```
+
 ---
 
 ```bash

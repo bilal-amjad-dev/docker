@@ -10,16 +10,20 @@ In docker-compose, we have:
 
 
 
-**Docker Compose Uses:**
+Docker Compose Uses:
 
 - Local development
 - CI/CD
 - Testing (QE)
 
+---
+Comparision:
 
-Docker Compose X Kubernetes
+- Docker Compose X Kubernetes
 
-Docker Compose VS Docker Swarm
+- Docker Compose VS Docker Swarm
+
+---
 
 Source:
 

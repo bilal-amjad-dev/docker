@@ -33,7 +33,5 @@ https://www.youtube.com/watch?v=eYzIPGHxnQo
 
 I have watched another video:
 
-NetworkChuck:
-
 https://www.youtube.com/watch?v=DM65_JyGxCo
 

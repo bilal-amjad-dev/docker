@@ -9,3 +9,27 @@ In docker-compose, we have:
 
 
 
+
+**Docker Compose Uses:**
+
+- Local development
+- CI/CD
+- Testing (QE)
+
+
+Docker Compose X Kubernetes
+
+Docker Compose VS Docker Swarm
+
+Source:
+
+Abhishek Veeramalla:
+
+https://www.youtube.com/watch?v=eYzIPGHxnQo
+
+I have watched another video:
+
+NetworkChuck:
+
+https://www.youtube.com/watch?v=DM65_JyGxCo
+

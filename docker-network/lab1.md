@@ -69,6 +69,8 @@ see IPAddress: 172.17.0.3
 
 ## Ping
 
+(We can ping because we have installed ping in 1st container.)
+
 ```bash
 docker exec -it login /bin/bash
 ```

@@ -37,10 +37,7 @@ ping -V
 docker inspect login
 ```
 
-See IPAddress:
-```bash
-see IPAddress: 172.17.0.2
-```
+See IPAddress: `172.17.0.2`
 
 
 ---
@@ -62,10 +59,8 @@ docker exec -it logout /bin/bash
 ```bash
 docker inspect logout 
 ```
-See IPAddress:
-```bash
-see IPAddress: 172.17.0.3
-```
+See IPAddress: `172.17.0.3`
+
 
 ---
 

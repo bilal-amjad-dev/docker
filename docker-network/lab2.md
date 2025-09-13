@@ -11,7 +11,7 @@ docker network create secure-network
 (It is a custom bridge network.)
 
 
-## Run a container **with recently your created network**:
+## Run a container **with your created network**:
 
 
 ```bash

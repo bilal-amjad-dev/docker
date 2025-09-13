@@ -1,4 +1,4 @@
-In this lab, we have 2 containers. One is running in default bridge network and other is running in our custom bridge network. When we ping in living in one container, we will not be able to reach other container.
+In this lab, we have two containers. One is running in `default bridge network` and other is running in `our custom bridge network`. Afterthat, when we ping, we will not be able to reach other container.
 
 # Create network 
 

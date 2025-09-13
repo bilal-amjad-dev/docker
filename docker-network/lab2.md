@@ -58,4 +58,4 @@ ping 172.19.0.2
 ```
 
 
-You will see that you will not able to reach the *finance container*. So, this is how you will make your container secure using the concept of networking.
+You will see that you will not able to reach the *finance container* because both are in different networks. So, this is how you will make your container secure using the concept of networking.

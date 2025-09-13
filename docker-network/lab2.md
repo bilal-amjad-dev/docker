@@ -27,6 +27,8 @@ docker inspect finance
 See IPAddress: `172.19.0.2`
 
 
+You will notice that here inside the networks, previously whenever I was showing you for the network of login container, it says as bridge but here it is seeing as secure network because we have allocated data dynamic.
+
 
 
 ### Inspect *logout* container (view the IP address of logout container):
@@ -38,10 +40,8 @@ docker inspect logout
 
 
 
-You will notice that here inside the networks, previously whenever I was showing you for the network of login container, it says as bridge but here it is seeing as secure network because we have allocated data dynamic.
 
-
-You cna see *Both containers have different ip addresses* because both have different **bridge** network.
+You can see *Both containers have different ip addresses* because both have different **bridge** network.
 
 
 

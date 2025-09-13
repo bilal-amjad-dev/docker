@@ -1,3 +1,5 @@
+In this lab, we have two containers and we create these two in the same `default bridge network`. Afterthat, we ping and see these two are able to communicate to each other.
+
 
 Let's say there is front-end container
 and there is a backend container. So, obviously front-end container has to talk to backend container. 

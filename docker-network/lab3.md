@@ -1,11 +1,12 @@
+In this lab, we create a container using `host network type`. Afterthat, when we inspect and see IPAddress, there will be no IPAddress there.
 
 
-
-
+## Create container using *host network type*
 ```bash
 docker run -itd --name host-demo --network=host nginx:latest
 ```
 
+### Inspect container:
 ```bash
 docker inspect host-demo 
 ```

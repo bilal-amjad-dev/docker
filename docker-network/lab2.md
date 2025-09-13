@@ -18,7 +18,7 @@ docker network create secure-network
 docker network -itd --name finance --network secure-network nginx:latest
 ```
 
-### Inspect *finance* container (view the IP address of finance container):
+### Inspect *finance* container (view IP address of finance container):
 
 ```bash
 docker inspect finance 
@@ -31,7 +31,7 @@ You will notice that here inside the networks, previously whenever I was showing
 
 
 
-### Inspect *logout* container (view the IP address of logout container):
+### Inspect *logout* container (view the address of logout container):
 
 
 ```bash

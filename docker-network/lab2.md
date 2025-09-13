@@ -18,7 +18,7 @@ docker network create secure-network
 docker network -itd --name finance --network secure-network nginx:latest
 ```
 
-### Inspect container *finance* (view the IP address of *finance* container):
+### Inspect *finance* container (view the IP address of *finance* container):
 
 ```bash
 docker inspect finance 
@@ -29,7 +29,7 @@ See IPAddress: `172.19.0.2`
 
 
 
-### Inspect container *finance* (view the IP address of *logout* container):
+### Inspect *logout* container (view the IP address of *logout* container):
 
 
 ```bash

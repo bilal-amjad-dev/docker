@@ -11,14 +11,14 @@ docker network create secure-network
 (It is a custom bridge network.)
 
 
-## Run a container **with your created network**:
+## Run a container *with your created network*:
 
 
 ```bash
 docker network -itd --name finance --network secure-network nginx:latest
 ```
 
-### Inspect *finance* container (view the IP address of *finance* container):
+### Inspect *finance* container (view the IP address of finance container):
 
 ```bash
 docker inspect finance 
@@ -29,7 +29,7 @@ See IPAddress: `172.19.0.2`
 
 
 
-### Inspect *logout* container (view the IP address of *logout* container):
+### Inspect *logout* container (view the IP address of logout container):
 
 
 ```bash

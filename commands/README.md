@@ -4,9 +4,14 @@
 docker images
 ```
 ```bash
+docker ps -a
+```
+```bash
+docker rmi CONTAINER-ID
+```
+```bash
 docker rmi IMAGE-ID
 ```
-
 
 
 
